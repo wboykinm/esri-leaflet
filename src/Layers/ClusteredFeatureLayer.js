@@ -1,10 +1,3 @@
-<<<<<<< HEAD:lib/esri-leaflet/extras/clustered-feature-layer-src.js
-/*! Esri-Leaflet - v0.0.1 - 2013-09-03
-=======
-/*! Esri-Leaflet - v0.0.1 - 2013-09-06
->>>>>>> master:examples/lib/esri-leaflet/extras/clustered-feature-layer-src.js
-*   Copyright (c) 2013 Environmental Systems Research Institute, Inc.
-*   Apache License*/
 /* globals Terraformer, L */
 (function(L, Terraformer){
   L.esri.ClusteredFeatureLayer = L.Class.extend({

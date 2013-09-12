@@ -1,8 +1,4 @@
-<<<<<<< HEAD:lib/esri-leaflet/extras/esri-basemaps-src.js
-/*! Esri-Leaflet - v0.0.1 - 2013-09-03
-=======
 /*! Esri-Leaflet - v0.0.1 - 2013-09-06
->>>>>>> master:dist/extras/esri-basemaps-src.js
 *   Copyright (c) 2013 Environmental Systems Research Institute, Inc.
 *   Apache License*/
 /* globals L */
